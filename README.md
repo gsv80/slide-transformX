@@ -1,0 +1,1 @@
+simple slider (carousel) with html,css,js
